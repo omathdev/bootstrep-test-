@@ -1,0 +1,17 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-shadow: 1px 1px rgb(255, 255, 255);
+}
+
+h4 i {
+    color: chartreuse;
+    text-shadow: 1px 1px black;
+    font-weight: bolder;
+}
+    
